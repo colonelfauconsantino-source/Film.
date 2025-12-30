@@ -1,0 +1,21 @@
+body {font-size: 15pt;
+background-color:black ;
+  
+}
+
+button{color: turquoise;
+  
+}
+h3{color:white;
+  
+}
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    background: linear-gradient(
+      to Right,
+      red, orange, yellow, green, blue, indigo, violet
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
